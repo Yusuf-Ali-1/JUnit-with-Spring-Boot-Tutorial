@@ -1,0 +1,15 @@
+.contain {
+	text-align: center;
+}
+
+.center {
+	display: inline-block;
+}
+
+p {
+	font-size: 30px;	
+}
+
+body {
+	background-color: rgba(42, 140, 255, 0.16)
+}
